@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.15.2"
+  version: "0.16.0"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/p/pyvista-js/pyvista_js-${{ version }}.tar.gz
-  sha256: 2be9900a09602454fd9496b31526069abc8ca39adc18d8b026c5d64d9f9a88c2
+  sha256: a4eb92eec98c2ceacaabe9de81fe4c5e7c11fc174896eadffcf8ca9142d1330c
   patches:
     - patches/0001-build-renderer.js-with-esbuild-directly.patch
 

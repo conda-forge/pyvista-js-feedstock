@@ -193,6 +193,3 @@ Feedstock Maintainers
 * [@larsoner](https://github.com/larsoner/)
 * [@tkoyama010](https://github.com/tkoyama010/)
 
-
-<!-- dummy commit to enable rerendering -->
-
